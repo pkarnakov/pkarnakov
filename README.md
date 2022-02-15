@@ -1,16 +1,42 @@
-### Hi there 👋
+# Hi everyone :wave:
 
-<!--
-**pkarnakov/pkarnakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a researcher developing software and algorithms for simulating complex
+physical systems (fluids, bubbles, drops, and particles) on
+supercomputers, and now blending them with machine learning tools to solve
+inverse and control problems.
+Currently based in Cambridge, MA, United States.
 
-Here are some ideas to get you started:
+You can see highlights of my work at [pkarnakov.com](https://pkarnakov.com),
+reach me on social media [LinkedIn](https://www.linkedin.com/in/pkarnakov), [Twitter/X](https://twitter.com/pkarnakov),
+and watch some of my simulation videos on [YouTube](https://www.youtube.com/@pkarnakov).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+The field of scientific computing is multidisciplinary and highly collaborative.
+My skills to fulfill each aspect of this work:
+
+* mathematical model (mechanics, calculus, differential equations)
+* discretization (numerical methods, linear algebra)
+* software implementation (C++, Python)
+* high-performance computing (MPI, OpenMP, OpenCL, vectorization, x86 assembly)
+* project tools (CMake, CI/CD, Docker)
+* inverse and control problems (optimization, machine learning, TensorFlow, Bayesian inference)
+* publishing and communication (LaTeX, scientific writing, oral presentation)
+* visualization, slides, and demos (ParaView, Keynote, reveal.js, JavaScript, HTML)
+
+I have collaborated with over 20 fellow researchers from several institutions around the globe (US, Switzerland, Germany, France, Russia)
+and presented my work at 8 international conferences.
+
+<details>
+<summary>
+Research projects
+</summary>
+Research projects
+</details>
+
+<details>
+<summary>
+Hobby and earlier projects
+</summary>
+Hobby and earlier projects
+</details>
