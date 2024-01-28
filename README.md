@@ -1,6 +1,6 @@
 # Hi everyone :wave:
 
-I'm a researcher developing software and algorithms for simulating complex
+I'm a researcher in scientific computing, developing software and algorithms for simulating complex
 physical systems (fluids, bubbles, drops, and particles) on
 supercomputers, and now blending them with machine learning tools to solve
 inverse and control problems.
@@ -10,12 +10,14 @@ You can see highlights of my work at [pkarnakov.com](https://pkarnakov.com),
 reach me on social media [LinkedIn](https://www.linkedin.com/in/pkarnakov), [Twitter/X](https://twitter.com/pkarnakov),
 and watch some of my simulation videos on [YouTube](https://www.youtube.com/@pkarnakov).
 
+### Skills
+
+The field of scientific computing is multidisciplinary and highly collaborative.
+
 <details>
 <summary>
-Skills
+Skills related to each aspect of my research work
 </summary>
-The field of scientific computing is multidisciplinary and highly collaborative.
-My skills to fulfill each aspect of this work:
 
 * mathematical model (mechanics, calculus, differential equations)
 * discretization (numerical methods, linear algebra)
@@ -30,16 +32,18 @@ I have collaborated with over 20 fellow researchers from several institutions ar
 and presented my work at 8 international conferences.
 </details>
 
+### Research projects
 <details>
 <summary>
-Research projects
+Projects done as part of my research work
 </summary>
 TBA
 </details>
 
+### Hobby projects
 <details>
 <summary>
-Hobby and earlier projects
+Spare-time projects to learn something or have fun
 </summary>
 TBA
 </details>
