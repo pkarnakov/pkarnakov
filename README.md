@@ -4,7 +4,7 @@ I'm a researcher developing software and algorithms for simulating complex
 physical systems (fluids, bubbles, drops, and particles) on
 supercomputers, and now blending them with machine learning tools to solve
 inverse and control problems.
-Currently based in Cambridge, MA, United States.
+Currently working at [Harvard SEAS](https://cse-lab.seas.harvard.edu/people/petr-karnakov) in Cambridge, MA, United States.
 
 You can see highlights of my work at [pkarnakov.com](https://pkarnakov.com),
 reach me on social media [LinkedIn](https://www.linkedin.com/in/pkarnakov), [Twitter/X](https://twitter.com/pkarnakov),
