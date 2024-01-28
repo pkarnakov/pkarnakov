@@ -38,7 +38,7 @@ and presented my work at 8 international conferences.
 Projects done as part of my research work
 </summary>
 
-### ODIL | [code](https://github.com/cselab/odil) | [article](https://doi.org/10.1093/pnasnexus/pgae005)
+### [ODIL](https://github.com/cselab/odil)
 
 ODIL (Optimizing a DIscrete Loss) is a method for solving inverse problems for partial differential equations,
 which is orders of magnitude faster than PINN (physics-informed neural networks).
@@ -47,7 +47,7 @@ which is orders of magnitude faster than PINN (physics-informed neural networks)
 |:---:|:---:|:---:|:---:|
 | [<img src="https://pkarnakov.com/media/tile_bodyinfer.jpg" width=100>](https://academic.oup.com/pnasnexus/article/3/1/pgae005/7516080#437357793) | [<img src="https://pkarnakov.com/media/wasm_poisson.png" width=100>](https://pkarnakov.github.io/autodiff/demos/poisson.html) | [<img src="https://pkarnakov.com/media/wasm_wave.png" width=100>](https://pkarnakov.github.io/autodiff/demos/wave.html) | [<img src="https://pkarnakov.com/media/wasm_heat.png" width=100>](https://pkarnakov.github.io/autodiff/demos/heat.html) |
 
-### Aphros | [code](https://github.com/cselab/aphros) | [article](https://doi.org/10.1126/sciadv.abm0590)
+### [Aphros](https://github.com/cselab/aphros)
 
 Aphros is a distributed multiphysics solver for simulating multiphase
 flow with bubbles and electrochemical reactors.
@@ -66,7 +66,7 @@ of foaming by breakup and mixing of air in water.
 Spare-time projects to learn something or have fun
 </summary>
 
-### ptoy | [code](https://github.com/pkarnakov/ptoy)
+### [ptoy](https://github.com/pkarnakov/ptoy)
 
 Particle toy with bonds and portals. You can connect particles to create ropes,
 run them through portals, and manipulate with the mouse.
@@ -75,5 +75,22 @@ Written in C++ with OpenGL and SDL2. The web version uses WebAssembly.
 | Native | [Web](https://pkarnakov.github.io/ptoy/ptoy.html) |
 |:---:|:---:|
 |<img src="https://pkarnakov.github.io/ptoy/images/ptoy_native.png" height="120">|<img src="https://pkarnakov.github.io/ptoy/images/ptoy_web.png" height="120"> |
+
+### [autodiff](https://github.com/pkarnakov/autodiff)
+
+Automatic differentiation in C++ with GPU support through OpenCL.
+
+This project has certainly made automatic differentiation frameworks less
+intimidating for me. I've realized that some machine learning tasks that would
+normally rely on TensorFlow/JAX/PyTorch can actually be solved in pure C++
+from scratch in a reasonable amount of time (Christmas holidays).
+And for small problems on a CPU it also works 10x times faster
+than the corresponding Python+TensorFlow implementation.
+The ODIL demos above (and [here](https://github.com/pkarnakov/autodiff#interactive-demos))
+use this code to run through WebAssembly.
+
+Examples of constructed computational graphs:
+
+<img src="https://pkarnakov.github.io/autodiff/media/reverse_scal1.svg" height="150"><img src="https://pkarnakov.github.io/autodiff/media/poisson/poisson.svg" height="150">
 
 </details>
