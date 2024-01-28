@@ -10,8 +10,10 @@ You can see highlights of my work at [pkarnakov.com](https://pkarnakov.com),
 reach me on social media [LinkedIn](https://www.linkedin.com/in/pkarnakov), [Twitter/X](https://twitter.com/pkarnakov),
 and watch some of my simulation videos on [YouTube](https://www.youtube.com/@pkarnakov).
 
-## Skills
-
+<details>
+<summary>
+Skills
+</summary>
 The field of scientific computing is multidisciplinary and highly collaborative.
 My skills to fulfill each aspect of this work:
 
@@ -26,17 +28,18 @@ My skills to fulfill each aspect of this work:
 
 I have collaborated with over 20 fellow researchers from several institutions around the globe (US, Switzerland, Germany, France, Russia)
 and presented my work at 8 international conferences.
+</details>
 
 <details>
 <summary>
 Research projects
 </summary>
-Research projects
+TBA
 </details>
 
 <details>
 <summary>
 Hobby and earlier projects
 </summary>
-Hobby and earlier projects
+TBA
 </details>
