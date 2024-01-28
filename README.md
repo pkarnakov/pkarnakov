@@ -61,9 +61,19 @@ of foaming by breakup and mixing of air in water.
 </details>
 
 ## Hobby projects
-<details>
+<details open>
 <summary>
 Spare-time projects to learn something or have fun
 </summary>
-TBA
+
+### ptoy | [code](https://github.com/pkarnakov/ptoy)
+
+Particle toy with bonds and portals. You can connect particles to create ropes,
+run them through portals, and manipulate with the mouse.
+Written in C++ with OpenGL and SDL2. The web version uses WebAssembly.
+
+| Native | [Web](https://pkarnakov.github.io/ptoy/ptoy.html) |
+|:---:|:---:|
+|<img src="https://pkarnakov.github.io/ptoy/images/ptoy_native.png" height="120">|<img src="https://pkarnakov.github.io/ptoy/images/ptoy_web.png" height="120"> |
+
 </details>
