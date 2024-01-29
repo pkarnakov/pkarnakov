@@ -112,15 +112,15 @@ Visual materials for a class on numerical methods that I lectured in 2022.
 Removing day-night cycle from videos using PCA. <a href="https://github.com/pkarnakov/am205/blob/main/media/unit2/media/pcavideo/pcavideo.py">Code</a> | <a href="https://pkarnakov.github.io/am205/slides/unit2/#/167">Slides</a>
 </summary>
 
-<a href="http://pkarnakov.com/am205/slides/unit2/media/pcavideo/pcavideo_paris.mp4"><img src="https://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_paris.gif" height=100 alt="pcavideo_paris.mp4"></a>
-<a href="http://pkarnakov.com/am205/slides/unit2/media/pcavideo/pcavideo_paris_first3.mp4"><img src="https://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_paris_first3.gif" height=100 alt="pcavideo_paris_first3.mp4"></a>
-<a href="http://pkarnakov.com/am205/slides/unit2/media/pcavideo/pcavideo_paris_zero3.mp4"><img src="https://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_paris_zero3.gif" height=100 alt="pcavideo_paris_zero3.mp4"></a><br>
-<a href="http://pkarnakov.com/am205/slides/unit2/media/pcavideo/pcavideo_vietnam.mp4"><img src="https://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_vietnam.gif" height=100 alt="pcavideo_vietnam.mp4"></a>
-<a href="http://pkarnakov.com/am205/slides/unit2/media/pcavideo/pcavideo_vietnam_first3.mp4"><img src="https://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_vietnam_first3.gif" height=100 alt="pcavideo_vietnam_first3.mp4"></a>
-<a href="http://pkarnakov.com/am205/slides/unit2/media/pcavideo/pcavideo_vietnam_zero3.mp4"><img src="https://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_vietnam_zero3.gif" height=100 alt="pcavideo_vietnam_zero3.mp4"></a><br>
-<a href="http://pkarnakov.com/am205/slides/unit2/media/pcavideo/pcavideo_sunrise.mp4"><img src="https://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_sunrise.gif" height=100 alt="pcavideo_sunrise.mp4"></a>
-<a href="http://pkarnakov.com/am205/slides/unit2/media/pcavideo/pcavideo_sunrise_first3.mp4"><img src="https://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_sunrise_first3.gif" height=100 alt="pcavideo_sunrise_first3.mp4"></a>
-<a href="http://pkarnakov.com/am205/slides/unit2/media/pcavideo/pcavideo_sunrise_zero3.mp4"><img src="https://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_sunrise_zero3.gif" height=100 alt="pcavideo_sunrise_zero3.mp4"></a>
+<a href="http://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_paris.mp4"><img src="https://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_paris.gif" height=100 alt="pcavideo_paris.mp4"></a>
+<a href="http://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_paris_first3.mp4"><img src="https://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_paris_first3.gif" height=100 alt="pcavideo_paris_first3.mp4"></a>
+<a href="http://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_paris_zero3.mp4"><img src="https://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_paris_zero3.gif" height=100 alt="pcavideo_paris_zero3.mp4"></a><br>
+<a href="http://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_vietnam.mp4"><img src="https://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_vietnam.gif" height=100 alt="pcavideo_vietnam.mp4"></a>
+<a href="http://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_vietnam_first3.mp4"><img src="https://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_vietnam_first3.gif" height=100 alt="pcavideo_vietnam_first3.mp4"></a>
+<a href="http://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_vietnam_zero3.mp4"><img src="https://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_vietnam_zero3.gif" height=100 alt="pcavideo_vietnam_zero3.mp4"></a><br>
+<a href="http://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_sunrise.mp4"><img src="https://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_sunrise.gif" height=100 alt="pcavideo_sunrise.mp4"></a>
+<a href="http://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_sunrise_first3.mp4"><img src="https://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_sunrise_first3.gif" height=100 alt="pcavideo_sunrise_first3.mp4"></a>
+<a href="http://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_sunrise_zero3.mp4"><img src="https://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_sunrise_zero3.gif" height=100 alt="pcavideo_sunrise_zero3.mp4"></a>
 </details>
 
 <details>
@@ -132,5 +132,5 @@ The forcing signal excites certain frequencies of an oscillator. Videos with (lo
 
 | Forcing | Response |
 |:---:|:---:|
-| <a href="http://pkarnakov.com/am205/slides/unit3/media/wave_force.webm"><img src="https://pkarnakov.github.io/am205/slides/unit3/media/wave_force.gif" height=100 alt="wave_force.webm"></a> | <a href="http://pkarnakov.com/am205/slides/unit3/media/wave_signal.webm"><img src="https://pkarnakov.github.io/am205/slides/unit3/media/wave_signal.gif" height=100 alt="wave_signal.webm"></a> |
+| <a href="http://pkarnakov.github.io/am205/slides/unit3/media/wave_force.webm"><img src="https://pkarnakov.github.io/am205/slides/unit3/media/wave_force.gif" height=100 alt="wave_force.webm"></a> | <a href="http://pkarnakov.github.io/am205/slides/unit3/media/wave_signal.webm"><img src="https://pkarnakov.github.io/am205/slides/unit3/media/wave_signal.gif" height=100 alt="wave_signal.webm"></a> |
 </details>
