@@ -76,14 +76,12 @@ Automatic differentiation framework in C++ with GPU support through OpenCL.
 <summary>
 Story and examples
 </summary>
-This project has certainly made automatic differentiation frameworks less
-intimidating for me. I've realized that some machine learning tasks that would
-normally rely on TensorFlow/JAX/PyTorch can actually be solved in pure C++
-from scratch in a reasonable amount of time (Christmas holidays).
+This project made me realize that some machine learning applications that would
+normally rely on TensorFlow/JAX/PyTorch can actually be implemented in pure C++
+from scratch in a reasonable amount of time (several days).
 And for small problems on a CPU it also works 10x times faster
 than the corresponding Python+TensorFlow implementation.
-The ODIL <a href="https://github.com/pkarnakov/autodiff#interactive-demos">demos</a> above use this code to run in WebAssembly.
-
+The ODIL demos above use this code to run in WebAssembly.
 Examples of constructed computational graphs:
 
 <img src="https://pkarnakov.github.io/autodiff/media/reverse_scal1.svg" height="150"><img src="https://pkarnakov.github.io/autodiff/media/poisson/poisson.svg" height="150">
@@ -103,4 +101,36 @@ The <tt>accel</tt> button couples the gravity vector with measurements from an a
 | Native | [Web](https://pkarnakov.github.io/ptoy/ptoy.html) |
 |:---:|:---:|
 |<img src="https://pkarnakov.github.io/ptoy/images/ptoy_native.png" height="120">|<img src="https://pkarnakov.github.io/ptoy/images/ptoy_web.png?1" height="120"> |
+</details>
+
+### [AM205](https://github.com/pkarnakov/am205#gallery)
+
+Visual materials for a class on numerical methods that I lectured in 2022.
+
+<details>
+<summary>
+Removing day-night cycle from videos using PCA. <a href="https://github.com/pkarnakov/am205/blob/main/media/unit2/media/pcavideo/pcavideo.py">Code</a> | <a href="https://pkarnakov.github.io/am205/slides/unit2/#/167">Slides</a>
+</summary>
+
+<a href="http://pkarnakov.com/am205/slides/unit2/media/pcavideo/pcavideo_paris.mp4"><img src="https://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_paris.gif" height=100 alt="pcavideo_paris.mp4"></a>
+<a href="http://pkarnakov.com/am205/slides/unit2/media/pcavideo/pcavideo_paris_first3.mp4"><img src="https://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_paris_first3.gif" height=100 alt="pcavideo_paris_first3.mp4"></a>
+<a href="http://pkarnakov.com/am205/slides/unit2/media/pcavideo/pcavideo_paris_zero3.mp4"><img src="https://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_paris_zero3.gif" height=100 alt="pcavideo_paris_zero3.mp4"></a><br>
+<a href="http://pkarnakov.com/am205/slides/unit2/media/pcavideo/pcavideo_vietnam.mp4"><img src="https://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_vietnam.gif" height=100 alt="pcavideo_vietnam.mp4"></a>
+<a href="http://pkarnakov.com/am205/slides/unit2/media/pcavideo/pcavideo_vietnam_first3.mp4"><img src="https://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_vietnam_first3.gif" height=100 alt="pcavideo_vietnam_first3.mp4"></a>
+<a href="http://pkarnakov.com/am205/slides/unit2/media/pcavideo/pcavideo_vietnam_zero3.mp4"><img src="https://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_vietnam_zero3.gif" height=100 alt="pcavideo_vietnam_zero3.mp4"></a><br>
+<a href="http://pkarnakov.com/am205/slides/unit2/media/pcavideo/pcavideo_sunrise.mp4"><img src="https://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_sunrise.gif" height=100 alt="pcavideo_sunrise.mp4"></a>
+<a href="http://pkarnakov.com/am205/slides/unit2/media/pcavideo/pcavideo_sunrise_first3.mp4"><img src="https://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_sunrise_first3.gif" height=100 alt="pcavideo_sunrise_first3.mp4"></a>
+<a href="http://pkarnakov.com/am205/slides/unit2/media/pcavideo/pcavideo_sunrise_zero3.mp4"><img src="https://pkarnakov.github.io/am205/slides/unit2/media/pcavideo/pcavideo_sunrise_zero3.gif" height=100 alt="pcavideo_sunrise_zero3.mp4"></a>
+</details>
+
+<details>
+<summary>
+Sound of the wave equation. <a href="https://github.com/pkarnakov/am205/blob/main/media/unit3/media/wave.py">Code</a> | <a href="https://pkarnakov.github.io/am205/slides/unit3/#/191">Slide</a>
+</summary>
+
+The forcing signal excites certain frequencies of an oscillator. Videos with (loud) sound:
+
+| Forcing | Response |
+|:---:|:---:|
+| <a href="http://pkarnakov.com/am205/slides/unit3/media/wave_force.webm"><img src="https://pkarnakov.github.io/am205/slides/unit3/media/wave_force.gif" height=100 alt="wave_force.webm"></a> | <a href="http://pkarnakov.com/am205/slides/unit3/media/wave_signal.webm"><img src="https://pkarnakov.github.io/am205/slides/unit3/media/wave_signal.gif" height=100 alt="wave_signal.webm"></a> |
 </details>
