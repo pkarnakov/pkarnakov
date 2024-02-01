@@ -22,7 +22,7 @@ Skills related to each aspect of my research
 * mathematical model (mechanics, calculus, differential equations)
 * discretization (numerical methods, linear algebra)
 * software implementation (C++, Python)
-* high-performance computing (MPI, OpenMP, OpenCL, vectorization, x86 assembly)
+* high-performance computing (MPI, OpenMP, OpenCL, CUDA, vectorization, x86 assembly)
 * project tools (CMake, CI/CD, Docker)
 * inverse and control problems (optimization, machine learning, TensorFlow, Bayesian inference)
 * publishing and communication (LaTeX, scientific writing, oral presentation)
@@ -133,4 +133,18 @@ The forcing signal excites certain frequencies of an oscillator. Videos with (lo
 | Forcing | Response |
 |:---:|:---:|
 | <a href="http://pkarnakov.github.io/am205/slides/unit3/media/wave_force.webm"><img src="https://pkarnakov.github.io/am205/slides/unit3/media/wave_force.gif" height=100 alt="wave_force.webm"></a> | <a href="http://pkarnakov.github.io/am205/slides/unit3/media/wave_signal.webm"><img src="https://pkarnakov.github.io/am205/slides/unit3/media/wave_signal.gif" height=100 alt="wave_signal.webm"></a> |
+</details>
+
+### [TinyOS](https://github.com/pkarnakov/tinyos)
+
+A prototype operating system in x86 assembly.
+
+<details>
+<summary>
+Story and screencast
+</summary>
+I started this project back in 2008 for a school competition in Russia's space capital Korolyev.
+The plan was to push Windows out of the market, but it didn't work out.
+
+<a href="http://pkarnakov.github.io/tinyos/media/tinyos.mp4"><img src="https://pkarnakov.github.io/tinyos/media/tinyos.gif" height=150 alt="tinyos.mp4"></a>
 </details>
