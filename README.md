@@ -25,9 +25,6 @@ Skills related to each aspect of my research
 * inverse and control problems (optimization, machine learning, TensorFlow, Bayesian inference)
 * publishing and communication (LaTeX, scientific writing, oral presentation)
 * visualization, slides, and demos (ParaView, Keynote, reveal.js, JavaScript, HTML)
-
-I have collaborated with over 20 fellow researchers from several institutions around the globe (US, Switzerland, Germany, France, Russia)
-and presented my work at 8 international conferences.
 </details>
 
 ## Research projects
