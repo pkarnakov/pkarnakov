@@ -84,7 +84,7 @@ Examples of constructed computational graphs:
 
 ### [ptoy](https://github.com/pkarnakov/ptoy)
 
-Particle toy with bonds and portals. Written in C++ with OpenGL and SDL2. There is a <a href="https://pkarnakov.github.io/ptoy/ptoy.html">web version</a>.
+Game with particles and portals. Written in C++ with OpenGL and SDL2. There is a <a href="https://pkarnakov.github.io/ptoy/ptoy.html">web version</a>.
 
 <details>
 <summary>
@@ -132,7 +132,7 @@ The forcing signal excites certain frequencies of an oscillator. Videos with (lo
 
 ### [TinyOS](https://github.com/pkarnakov/tinyos)
 
-A prototype operating system in x86 assembly.
+Prototype operating system in x86 assembly.
 
 <details>
 <summary>
