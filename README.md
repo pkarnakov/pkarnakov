@@ -1,18 +1,16 @@
 # Hi everyone :wave:
 
-I'm a researcher in scientific computing, developing software and algorithms for simulating complex
-physical systems (fluids, bubbles, drops, and particles) on
-supercomputers, and now blending them with machine learning tools to solve
-inverse and control problems.
-Currently working at [Harvard SEAS](https://cse-lab.seas.harvard.edu/people/petr-karnakov) in Cambridge, MA, United States.
+I'm a research scientist developing numerical algorithms and software
+for simulation, control, and design of complex physical systems.
+My interests range from classical numerical methods to data-driven techniques and machine learning,
+with a focus on software engineering and high-performance computing.
+Currently working at [Harvard University](https://cse-lab.seas.harvard.edu/people/petr-karnakov) in Cambridge, MA, United States.
 
 You can see examples of my work at [pkarnakov.com](https://pkarnakov.com),
 reach me on social media [LinkedIn](https://www.linkedin.com/in/pkarnakov), [Twitter/X](https://twitter.com/pkarnakov),
 and watch some of my simulation videos on [YouTube](https://www.youtube.com/@pkarnakov/videos).
 
 ## Skills
-
-The field of scientific computing is multidisciplinary and highly collaborative.
 
 <details>
 <summary>
