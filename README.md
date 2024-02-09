@@ -1,9 +1,10 @@
 # Hi everyone :wave:
 
-I'm a research scientist developing numerical algorithms and software
+I'm a research scientist developing software and numerical algorithms
 for simulation, control, and design of complex physical systems.
 My interests range from classical numerical methods to data-driven techniques and machine learning,
 with a focus on software engineering and high-performance computing.
+List of [publications](https://pkarnakov.com/pub.html).
 Currently working at [Harvard University](https://cse-lab.seas.harvard.edu/people/petr-karnakov) in Cambridge, MA, United States.
 
 You can see examples of my work at [pkarnakov.com](https://pkarnakov.com),
@@ -14,17 +15,17 @@ and watch some of my simulation videos on [YouTube](https://www.youtube.com/@pka
 
 <details>
 <summary>
-Skills related to each aspect of my research
+Skills grouped by activities
 </summary>
 
-* mathematical model (mechanics, calculus, differential equations)
-* discretization (numerical methods, linear algebra)
-* software implementation (C++, Python)
-* high-performance computing (MPI, OpenMP, OpenCL, CUDA, vectorization, x86 assembly)
-* project tools (CMake, CI/CD, Docker)
-* inverse and control problems (optimization, machine learning, TensorFlow, Bayesian inference)
-* publishing and communication (LaTeX, scientific writing, oral presentation)
-* visualization, slides, and demos (ParaView, Keynote, reveal.js, JavaScript, HTML)
+* Programming: C++, Python, JavaScript, OpenGL, Fortran, x86 assembly
+* High Performance Computing: MPI, OpenMP, OpenCL, CUDA, HDF5, vectorization
+* Mathematics: Numerical methods, linear algebra, optimization
+* Machine Learning: TensorFlow, JAX, reinforcement learning, stochastic optimization, Bayesian inference
+* Visualization & Simulation: Matplotlib, ParaView, Ansys Fluent, COMSOL
+* Development Tools: Git, Unix shell, CMake, Docker, CI/CD
+* Presentation & Publishing: LaTeX, HTML, Keynote, reveal.js
+
 </details>
 
 ## Research projects
@@ -47,7 +48,7 @@ Demos
 ### [Aphros](https://github.com/cselab/aphros)
 
 Distributed multiphysics solver for simulating multiphase flow with bubbles and electrochemical reactors.
-The solver performed first-ever simulations of foaming by breakup and mixing of air in water.
+The solver performed the largest simulations of foaming by breakup and mixing of air in water.
 
 <details>
 <summary>
