@@ -11,24 +11,7 @@ You can see examples of my work at [pkarnakov.com](https://pkarnakov.com),
 reach me on social media [LinkedIn](https://www.linkedin.com/in/pkarnakov), [Twitter/X](https://twitter.com/pkarnakov),
 and watch some of my simulation videos on [YouTube](https://www.youtube.com/@pkarnakov/videos).
 
-## Skills
-
-<details>
-<summary>
-Skills grouped by activities
-</summary>
-
-* Programming: C++, Python, JavaScript, OpenGL, Fortran, x86 assembly
-* High Performance Computing: MPI, OpenMP, OpenCL, CUDA, HDF5, vectorization
-* Mathematics: Numerical methods, linear algebra, optimization
-* Machine Learning: TensorFlow, JAX, reinforcement learning, stochastic optimization, Bayesian inference
-* Visualization & Simulation: Matplotlib, ParaView, Ansys Fluent, COMSOL
-* Development Tools: Git, Unix shell, CMake, Docker, CI/CD
-* Presentation & Publishing: LaTeX, HTML, Keynote, reveal.js
-
-</details>
-
-## Research projects
+## Research Projects
 
 ### [ODIL](https://github.com/cselab/odil)
 
@@ -60,9 +43,7 @@ Videos and demos
 | [<img src="https://pkarnakov.com/media/tile_waterfall.jpg" width=100>](https://www.youtube.com/watch?v=0Cj8pPYNJGY) | [<img src="https://pkarnakov.com/media/tile_reactor.jpg" width=100>](https://www.youtube.com/watch?v=Rm-xDGpIEJA) | [<img src="https://pkarnakov.com/media/wasm_hydro.png" width=100>](https://cselab.github.io/aphros/wasm/hydro.html) | [<img src="https://pkarnakov.com/media/wasm_gallery.png" width=100>](https://github.com/cselab/aphros/wiki/Aphros-Explorer) |
 </details>
 
-## Hobby projects
-
-Spare-time projects to learn something or have fun.
+## Other Projects
 
 ### [autodiff](https://github.com/pkarnakov/autodiff)
 
