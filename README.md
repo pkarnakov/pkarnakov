@@ -5,7 +5,6 @@ for simulation, control, and design of complex physical systems.
 My interests range from classical numerical methods to data-driven techniques and machine learning,
 with a focus on software engineering and high-performance computing.
 List of [publications](https://pkarnakov.com/pub.html).
-Currently working at [Harvard University](https://cse-lab.seas.harvard.edu/people/petr-karnakov) in Cambridge, MA, United States.
 
 You can see examples of my work at [pkarnakov.com](https://pkarnakov.com),
 reach me on social media [LinkedIn](https://www.linkedin.com/in/pkarnakov), [Twitter/X](https://twitter.com/pkarnakov),
