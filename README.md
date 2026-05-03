@@ -1,9 +1,11 @@
 # Hi everyone :wave:
 
-I'm a research scientist developing software and numerical algorithms
-for simulation, control, and design of complex physical systems.
-My interests range from classical numerical methods to data-driven techniques and machine learning,
-with a focus on software engineering and high-performance computing.
+I'm a research scientist with over 10 years of experience in software engineering,
+high-performance computing, and machine learning.
+My background spans academic research at ETH Zurich and Harvard University
+and industry at DeepL, with expertise in numerical methods,
+physics simulations, and production ML systems based on LLMs and vision-language models.
+
 List of [publications](https://pkarnakov.com/pub.html).
 
 You can see examples of my work at [pkarnakov.com](https://pkarnakov.com),
